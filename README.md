@@ -38,10 +38,10 @@ hoy HTTP 404) y **repara automáticamente** la configuración al arrancar.
 
 ## 📦 Plataformas
 
-| Plataforma | Estado | Documentación e instrucciones |
-|---|---|---|
-| **Windows** | ✅ v1.0.2 | [`Windows/Test-solver-v1.0.2/README.md`](Windows/Test-solver-v1.0.2/README.md) |
-| **Linux** | 🚧 Próximamente | — |
+| Plataforma | Estado | Documentación | Descarga |
+|---|---|---|---|
+| **Windows** | ✅ v1.0.2 | [`Windows/Test-solver-v1.0.2/README.md`](Windows/Test-solver-v1.0.2/README.md) | [⬇️ Release v1.0.2](https://github.com/ronnyfeliz/test-solver-ai/releases/tag/windows-v1.0.2) |
+| **Linux** | 🚧 Próximamente | — | — |
 
 Cada carpeta de plataforma contiene su código fuente, instrucciones de
 instalación/ejecución y el proceso de empaquetado específico.
@@ -64,7 +64,19 @@ instalación/ejecución y el proceso de empaquetado específico.
 Python · Tkinter · Pillow · keyboard · Requests · PyInstaller · APIs REST (Groq, Gemini, OpenRouter) · OpenCode · Antigravity IDE
 
 - **Creación:** 19 de marzo de 2026
-- **Última actualización:** 23 de agosto de 2026
+- **Última actualización:** 24 de agosto de 2026
+
+## 💼 Colaborador / Desarrollador — Ronny Feliz
+
+Responsable del desarrollo de la interfaz gráfica moderna, la arquitectura
+y el empaquetado de Test Solver AI.
+
+| Contacto | Enlace |
+|---|---|
+| 🌐 Portafolio | [ronnyfeliz.github.io](https://ronnyfeliz.github.io/) |
+| 🐙 GitHub | [@ronnyfeliz](https://github.com/ronnyfeliz) |
+| 💼 LinkedIn | [in/ronnyfeliz2](https://www.linkedin.com/in/ronnyfeliz2/) |
+| ✉️ Correo | [blxst608@gmail.com](mailto:blxst608@gmail.com) |
 
 ---
 

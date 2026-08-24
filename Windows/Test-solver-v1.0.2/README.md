@@ -9,7 +9,7 @@ Versión de Test Solver AI para **Windows 10/11**.
 
 ## 🚀 Uso rápido (ejecutable)
 
-1. Descarga `test_solver_v1.0.2.exe` (ver [Releases](../../releases)).
+1. Descarga `test_solver_v1.0.2.exe` desde el [Release oficial v1.0.2 — Windows](https://github.com/ronnyfeliz/test-solver-ai/releases/tag/windows-v1.0.2).
 2. Ejecútalo como administrador: si falta la clave del proveedor actual, se abrirá **Ajustes** automáticamente.
 3. Pega tu clave API (se guarda **solo localmente**, junto al exe).
 4. Pulsa **Iniciar servicio** y usa **F8** sobre cualquier pregunta de tu examen online.
