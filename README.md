@@ -43,10 +43,16 @@ hoy HTTP 404) y **repara automáticamente** la configuración al arrancar.
 | Plataforma | Estado | Documentación | Descarga |
 |---|---|---|---|
 | **Windows** | ✅ v1.0.2 | [`Windows/Test-solver-v1.0.2/README.md`](Windows/Test-solver-v1.0.2/README.md) | [⬇️ Release v1.0.2](https://github.com/ronnyfeliz/test-solver-ai/releases/tag/windows-v1.0.2) |
-| **Linux** | 🚧 Próximamente | — | — |
+| **Linux** | ✅ v1.0.2 (X11/Wayland) | [`Linux/Test-solver-v1.0.2/README.md`](Linux/Test-solver-v1.0.2/README.md) | [⬇️ Release Linux v1.0.2](https://github.com/ronnyfeliz/test-solver-ai/releases/tag/linux-v1.0.2) |
 
 Cada carpeta de plataforma contiene su código fuente, instrucciones de
 instalación/ejecución y el proceso de empaquetado específico.
+
+> 🐧 **Notas rápidas para Linux**: los hotkeys globales requieren ejecutar la
+> app con `sudo` (la librería `keyboard` lee `/dev/input` directamente). En
+> X11 la captura funciona sin pasos extra; en Wayland se usan herramientas
+> nativas (`grim`, `gnome-screenshot` o `spectacle`). Detalles en el README
+> de la plataforma.
 
 ## 🔒 Seguridad y privacidad
 

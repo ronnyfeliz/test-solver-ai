@@ -42,10 +42,15 @@ and **automatically repairs** the configuration on startup.
 | Platform | Status | Documentation | Download |
 |---|---|---|---|
 | **Windows** | ✅ v1.0.2 | [`Windows/Test-solver-v1.0.2/README.en.md`](Windows/Test-solver-v1.0.2/README.en.md) | [⬇️ Release v1.0.2](https://github.com/ronnyfeliz/test-solver-ai/releases/tag/windows-v1.0.2) |
-| **Linux** | 🚧 Coming soon | — | — |
+| **Linux** | ✅ v1.0.2 (X11/Wayland) | [`Linux/Test-solver-v1.0.2/README.en.md`](Linux/Test-solver-v1.0.2/README.en.md) | [⬇️ Linux Release v1.0.2](https://github.com/ronnyfeliz/test-solver-ai/releases/tag/linux-v1.0.2) |
 
 Each platform folder contains its source code, installation/run instructions
 and the specific packaging process.
+
+> 🐧 **Quick notes for Linux**: global hotkeys require running the app with
+> `sudo` (the `keyboard` library reads `/dev/input` directly). On X11 screen
+> capture works out of the box; on Wayland native tools are used (`grim`,
+> `gnome-screenshot` or `spectacle`). See the platform README for details.
 
 ## 🔒 Security & privacy
 
