@@ -1,0 +1,59 @@
+# ==========================================================
+# Test Solver AI - .gitignore
+# Evita subir datos sensibles y artefactos locales a GitHub
+# ==========================================================
+
+# ---------- SECRETOS / CONFIGURACIÓN LOCAL (¡NUNCA SUBIR!) ----------
+config.json
+**/config.json
+*.key
+.env
+.env.*
+
+# Respaldos internos que CONTIENEN claves antiguas en texto plano
+code_source_v1.0.2/code-backup.txt
+code_source_v1.0.2/test_solver_v1.0.2_old_backup.py
+
+# Notas personales de desarrollo y documentación interna (privadas)
+TRACK/
+**/TRACK*
+Docs/
+
+# ---------- LOGS ----------
+solver_error.log
+**/solver_error.log
+*.log
+
+# ---------- PYTHON ----------
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# ---------- PYINSTALLER / BUILD ----------
+build/
+dist/
+**/build/
+**/dist/
+out/
+*.manifest.bak
+
+# Binarios compilados y carpeta de distribución local
+*.exe
+app/
+
+# ---------- ENTORNOS / EDITORES ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- SISTEMA OPERATIVO ----------
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+~$*
