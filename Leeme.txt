@@ -1,0 +1,7 @@
+Sigue las instrucciones:
+
+1. Descomrpime al archivo .zip.
+2. Ejecuta el archivo .exe como adminisrador.
+3. Abre el Administrador de tareas.
+4. Verifica que el servicio `test_solver_v1.5` esté en ejecución.
+5. Entra a tu examen online y presiona F8 y se abrira una ventana emergente con la respuesta.
