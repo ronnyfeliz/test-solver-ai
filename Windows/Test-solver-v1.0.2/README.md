@@ -1,3 +1,5 @@
+🇪🇸 **Español** · [🇺🇸 English](README.en.md)
+
 # 🎯 Test Solver AI v1.0.2 — Windows
 
 Versión de Test Solver AI para **Windows 10/11**.

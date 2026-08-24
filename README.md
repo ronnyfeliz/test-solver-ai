@@ -1,3 +1,5 @@
+🇪🇸 **Español** · [🇺🇸 English](README.en.md)
+
 # 🎯 Test Solver AI
 
 Herramienta de escritorio **multiplataforma** que analiza preguntas de opción múltiple
