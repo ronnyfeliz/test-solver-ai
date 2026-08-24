@@ -1,0 +1,43 @@
+# ==========================================================
+# Test Solver AI - .gitignore raíz (aplica a todas las plataformas)
+# Evita subir datos sensibles y artefactos locales a GitHub
+# ==========================================================
+
+# ---------- SECRETOS / CONFIGURACIÓN LOCAL (¡NUNCA SUBIR!) ----------
+config.json
+*.key
+.env
+.env.*
+
+# ---------- LOGS ----------
+*.log
+
+# ---------- PYTHON (común a todas las plataformas) ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# ---------- BUILDS / EMPAQUETADO ----------
+build/
+dist/
+out/
+
+# ---------- ENTORNOS / EDITORES ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- ARCHIVOS LOCALES DE DISTRIBUCIÓN ----------
+Leeme.txt
+
+# ---------- SISTEMA OPERATIVO ----------
+Thumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+*.tmp
+~$*
