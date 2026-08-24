@@ -1,0 +1,45 @@
+{
+    "current_provider": "groq",
+    "language": "es",
+    "hotkey_analyze": "f8",
+    "hotkey_close": "f9",
+    "screenshot_quality": 85,
+    "max_width": 1600,
+    "providers": {
+        "groq": {
+            "api_key": "",
+            "model": "qwen/qwen3.6-27b",
+            "base_url": "https://api.groq.com/openai/v1"
+        },
+        "gemini": {
+            "api_key": "",
+            "model": "gemini-2.5-flash",
+            "base_url": "https://generativelanguage.googleapis.com/v1beta"
+        },
+        "openrouter": {
+            "api_key": "",
+            "model": "google/gemma-4-31b-it:free",
+            "base_url": "https://openrouter.ai/api/v1"
+        },
+        "opencode": {
+            "api_key": "",
+            "model": "big-pickle",
+            "base_url": "https://opencode.ai/zen/v1"
+        },
+        "deepseek": {
+            "api_key": "",
+            "model": "deepseek-chat",
+            "base_url": "https://api.deepseek.com/v1"
+        },
+        "openai": {
+            "api_key": "",
+            "model": "gpt-4o-mini",
+            "base_url": "https://api.openai.com/v1"
+        },
+        "custom": {
+            "api_key": "",
+            "model": "",
+            "base_url": ""
+        }
+    }
+}

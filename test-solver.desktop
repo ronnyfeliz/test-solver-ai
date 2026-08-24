@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Test Solver AI
+GenericName=Test Solver AI
+Comment=Analiza la pantalla y muestra respuestas (F8) - Cierra con F9
+Exec=test_solver_v1.0.2
+Icon=test-solver-v1.0.2
+Terminal=false
+StartupNotify=true
+Categories=Utility;
