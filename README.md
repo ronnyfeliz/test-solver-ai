@@ -7,6 +7,8 @@ en tu pantalla usando IA de visión y muestra la respuesta al instante en un
 overlay flotante.
 
 > **F8** → captura y analiza la pantalla · **F9** → cierra la aplicación
+>
+> 🌐 **Sitio web oficial:** [test-solver-ai.netlify.app](https://test-solver-ai.netlify.app/)
 
 ---
 

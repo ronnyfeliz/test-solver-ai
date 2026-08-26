@@ -6,6 +6,8 @@ Cross-platform **desktop tool** that analyzes multiple-choice questions on your
 screen using vision AI and instantly shows the answer in a floating overlay.
 
 > **F8** → capture and analyze the screen · **F9** → close the application
+>
+> 🌐 **Official website:** [test-solver-ai.netlify.app](https://test-solver-ai.netlify.app/)
 
 ---
 
