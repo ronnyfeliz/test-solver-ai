@@ -1,5 +1,9 @@
 [🇪🇸 Español](README.md) · 🇺🇸 **English**
 
+<p align="center">
+  <img src="Windows/Test-solver-v1.0.2/media/test-solver-v1.0.2.png" alt="Test Solver AI logo" width="140">
+</p>
+
 # 🎯 Test Solver AI
 
 Cross-platform **desktop tool** that analyzes multiple-choice questions on your
